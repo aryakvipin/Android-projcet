@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ScrolleViewActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <!--        <ScrollView-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="620dp"-->
+        <!--            android:layout_marginTop="100dp"-->
+
+        <!--            app:layout_constraintEnd_toEndOf="parent"-->
+        <!--            app:layout_constraintStart_toStartOf="parent">-->
+        <!--            -->
+        <!--        </ScrollView>-->
+
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="369dp"
+            android:layout_height="85dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="50dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="I Capture the Castle"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+    <ScrollView
+        android:layout_width="413dp"
+        android:layout_height="591dp"
+
+        android:layout_marginBottom="2dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="@string/scrollview" />
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+<!--            android:layout_marginEnd="7dp"-->
+<!--            android:layout_marginBottom="500dp"-->
+<!--            android:orientation="vertical"-->
+<!--            app:layout_constraintBottom_toBottomOf="parent"-->
+<!--            app:layout_constraintEnd_toEndOf="parent"-->
+<!--            app:layout_constraintHorizontal_bias="1.0"-->
+<!--            app:layout_constraintStart_toStartOf="parent">-->
+
+
+            <!--            <ImageView-->
+            <!--                android:id="@+id/imageView2"-->
+            <!--                android:layout_width="287dp"-->
+            <!--                android:layout_height="190dp"-->
+            <!--                android:padding="5dp"-->
+            <!--                app:srcCompat="@drawable/fb" />-->
+
+            <!--            <ImageView-->
+            <!--                android:id="@+id/imageView6"-->
+            <!--                android:layout_width="287dp"-->
+            <!--                android:layout_height="190dp"-->
+            <!--                android:layout_gravity="center"-->
+            <!--                android:padding="5dp"-->
+            <!--                app:srcCompat="@drawable/camera" />-->
+
+            <!--            <ImageView-->
+            <!--                android:id="@+id/imageView7"-->
+            <!--                android:layout_width="287dp"-->
+            <!--                android:layout_height="190dp"-->
+            <!--                android:padding="5dp"-->
+            <!--                app:srcCompat="@drawable/conatct" />-->
+
+            <!--            <ImageView-->
+            <!--                android:id="@+id/imageView8"-->
+            <!--                android:layout_width="287dp"-->
+            <!--                android:layout_height="190dp"-->
+            <!--                android:padding="5dp"-->
+            <!--                app:srcCompat="@drawable/file" />-->
+
+            <!--            <ImageView-->
+            <!--                android:id="@+id/imageView9"-->
+            <!--                android:layout_width="287dp"-->
+            <!--                android:layout_height="190dp"-->
+            <!--                android:padding="5dp"-->
+
+            <!--                app:srcCompat="@drawable/banana" />-->
+
+            <!--            <ImageView-->
+            <!--                android:id="@+id/imageView10"-->
+            <!--                android:layout_width="287dp"-->
+            <!--                android:layout_height="190dp"-->
+            <!--                android:padding="5dp"-->
+            <!--                app:srcCompat="@drawable/apple" />-->
+
+            <!--            <ImageView-->
+            <!--                android:id="@+id/imageView11"-->
+            <!--                android:layout_width="287dp"-->
+            <!--                android:layout_height="190dp"-->
+            <!--                android:padding="5dp"-->
+            <!--                app:srcCompat="@drawable/instagram" />-->
+
+
+<!--    <TextView-->
+<!--        android:id="@+id/textView8"-->
+<!--        android:layout_width="183dp"-->
+<!--        android:layout_height="33dp"-->
+<!--        android:layout_marginStart="110dp"-->
+<!--        android:layout_marginEnd="118dp"-->
+<!--        android:layout_marginBottom="324dp"-->
+<!--        android:gravity="center"-->
+<!--        android:text="Scrollll view"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="1.0"-->
+<!--        app:layout_constraintStart_toStartOf="parent" />-->
+

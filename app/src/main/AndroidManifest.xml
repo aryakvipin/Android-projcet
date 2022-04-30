@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.my_android_projcets">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.My_Android_projcets">
+        <activity
+            android:name=".ScrolleViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Seekbar_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityLifeCycle"
+            android:exported="false" />
+        <activity
+            android:name=".Gridview_with_img_text"
+            android:exported="false" />
+        <activity
+            android:name=".Gridviewpage"
+            android:exported="false" />
+        <activity
+            android:name=".CstmSpinnerview"
+            android:exported="false" />
+        <activity
+            android:name=".Custemlistview"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".Home_page"
+            android:exported="false" />
+        <activity
+            android:name=".Login_page"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
