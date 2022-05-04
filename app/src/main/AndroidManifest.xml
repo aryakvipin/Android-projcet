@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.My_Android_projcets">
+
+
         <activity
             android:name=".ScrolleViewActivity"
             android:exported="false" />
@@ -40,13 +42,17 @@
             android:name=".Login_page"
             android:exported="false" />
         <activity
+            android:name=".Calculater_app"
+            android:exported="true"
+            android:theme="@style/Theme.My_Android_projcets" > <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter></activity>
+        <activity
             android:name=".MainActivity"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
     </application>
 

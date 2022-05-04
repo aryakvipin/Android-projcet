@@ -3,10 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/drawable-v24/ovelbutton.xml" value="0.1765" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/drawable/ovelbutton2.xml" value="0.111" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_calck.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_calculater.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_calculater_app.xml" value="0.12962962962962962" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_cstm_spinnerview.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_gridview_with_img_text.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_gridviewpage.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_home_page.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_login_page.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_my_calculater.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_rating_page.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_scrolle_view.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/countrylyer.xml" value="0.25" />
       </map>
     </option>
   </component>

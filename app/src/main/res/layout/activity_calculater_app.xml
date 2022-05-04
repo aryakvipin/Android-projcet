@@ -9,47 +9,57 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="56dp"
         android:layout_weight="0.3"
-        android:orientation="horizontal">
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/edtInput"
+            android:layout_width="match_parent"
+            android:layout_height="94dp"
+            android:background="#ecf0f1"
+            android:textSize="30sp" />
 
         <TextView
             android:id="@+id/display"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="85dp"
             android:background="#ecf0f1"
             android:textSize="30sp" />
+
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0.2"
+        android:layout_weight="0.1"
         android:orientation="horizontal">
 
-        <Button
-            android:id="@+id/delete"
-            android:layout_width="wrap_content"
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/clr"
+            android:layout_width="31dp"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
+            android:background="@drawable/ovelbutton2"
 
-
-            android:background="@drawable/ovelbutton"
-            android:text="Del"
+            android:text="Clr"
+            android:textColor="@color/black"
             android:textSize="20sp" />
 
-        <Button
+
+
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/buttoneql"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-
-            android:background="@drawable/ovelbutton"
-
+            android:background="@drawable/ovelbutton2"
             android:text="="
-            android:textColor="#ecf0f1"
+
+            android:textColor="@color/black"
+
             android:textSize="30sp" />
 
     </LinearLayout>
@@ -57,51 +67,51 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0.2"
+        android:layout_weight="0.1"
         android:orientation="horizontal">
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/b1"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-
+            android:background="@drawable/ovelbutton"
             android:text="1"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/b2"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-
+            android:background="@drawable/ovelbutton"
             android:text="2"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/b3"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-
+            android:background="@drawable/ovelbutton"
             android:text="3"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/biv"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-
+            android:background="@drawable/ovelbutton2"
             android:text="/"
-            android:textColor="#ecf0f1"
+            android:textColor="@color/black"
             android:textSize="30sp" />
 
     </LinearLayout>
@@ -109,51 +119,51 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0.2"
+        android:layout_weight="0.1"
         android:orientation="horizontal">
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/b4"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-
+            android:background="@drawable/ovelbutton"
             android:text="4"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/b5"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-
+            android:background="@drawable/ovelbutton"
             android:text="5"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/b6"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-
+            android:background="@drawable/ovelbutton"
             android:text="6"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/bsub"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-
+            android:background="@drawable/ovelbutton2"
             android:text="-"
-            android:textColor="#ecf0f1"
+            android:textColor="@color/black"
             android:textSize="30sp" />
 
     </LinearLayout>
@@ -161,51 +171,54 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0.2"
+        android:layout_weight="0.1"
         android:orientation="horizontal">
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/b7"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-
+            android:background="@drawable/ovelbutton"
             android:text="7"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/b8"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
+            android:background="@drawable/ovelbutton"
 
             android:text="8"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/b9"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
+            android:background="@drawable/ovelbutton"
 
             android:text="9"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/bmul"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
+            android:background="@drawable/ovelbutton2"
 
             android:text="x"
-            android:textColor="#ecf0f1"
+            android:textColor="@color/black"
             android:textSize="30sp" />
 
     </LinearLayout>
@@ -213,52 +226,57 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0.2"
+        android:layout_weight="0.1"
         android:orientation="horizontal">
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/bDot"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
+            android:background="@drawable/ovelbutton2"
 
             android:text="."
-            android:textColor="#ecf0f1"
-            android:textSize="20sp" />
+            android:textColor="@color/black"
+            android:textSize="30dp" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/b0"
-            android:layout_width="wrap_content"
+            android:layout_width="74dp"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
+            android:background="@drawable/ovelbutton"
 
             android:text="0"
             android:textColor="#ecf0f1"
             android:textSize="20sp" />
 
-        <Button
-            android:id="@+id/BRemain"
-            android:layout_width="wrap_content"
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/backspace"
+            android:layout_width="113dp"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
+            android:background="@drawable/ovelbutton2"
+            android:src="@drawable/bck_1_91_1_50x50"
 
-            android:text="%"
-            android:textColor="#ecf0f1"
+            android:textColor="@color/black"
+
             android:textSize="30sp" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/badd"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
+            android:background="@drawable/ovelbutton2"
 
             android:onClick="onClick"
             android:text="+"
-            android:textColor="#ecf0f1"
+            android:textColor="@color/black"
             android:textSize="30sp" />
 
     </LinearLayout>
