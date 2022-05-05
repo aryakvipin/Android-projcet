@@ -9,6 +9,9 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_calculater.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_calculater_app.xml" value="0.12962962962962962" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_cstm_spinnerview.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_grid_food_view.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_grid_list_food_view.xml" value="0.16" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_grid_single_view.xml" value="0.2" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_gridview_with_img_text.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_gridviewpage.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_home_page.xml" value="0.25" />
@@ -17,7 +20,12 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_my_calculater.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_rating_page.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_scrolle_view.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_webview.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/countrylyer.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/gridfoodlayout.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/gridfoodvilist.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/gridlaout.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/secondlayour.xml" value="0.25" />
       </map>
     </option>
   </component>

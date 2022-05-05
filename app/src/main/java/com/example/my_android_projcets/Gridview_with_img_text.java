@@ -12,7 +12,7 @@ public class Gridview_with_img_text extends AppCompatActivity {
    GridView gridimgExt;
    String gridtext[]={"Camera","Clock","File","Massege","Phone","Palystore","whatsapp","Image","Chrome","youtube"
            ,"Calender","Contact","Settings","Calculater","Instagram","fm"};
-   int gridimg[]={R.drawable.camera,R.drawable.calock,R.drawable.file,R.drawable.messege,R.drawable.phone,R.drawable.playstore,
+   int gridimg[]={R.drawable.fd1,R.drawable.calock,R.drawable.file,R.drawable.messege,R.drawable.phone,R.drawable.playstore,
    R.drawable.whtsp,R.drawable.image,R.drawable.chrome,R.drawable.youtube,R.drawable.calender,R.drawable.conatct,R.drawable.settinigs
    ,R.drawable.calculater,R.drawable.instagram,R.drawable.fm};
 
