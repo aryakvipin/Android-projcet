@@ -4,28 +4,80 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/drawable-v24/ovelbutton.xml" value="0.1765" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/drawable/background1.xml" value="0.224" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/drawable/background2.xml" value="0.224" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/drawable/background3.xml" value="0.224" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/drawable/ovelbutton2.xml" value="0.111" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/drawable/progressbar.xml" value="0.2555" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_bluetooth.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_bluetooth_acitivity.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_calck.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_calculater.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_calculater_app.xml" value="0.12962962962962962" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_camera.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_cardwith_recycler_view.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_convex_menu.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_cstm_spinnerview.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_custem_card_view_eg.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_custemlistview.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_date_picker_with_edittext.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_gallery_tab.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_grid_food_view.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_grid_list_food_view.xml" value="0.16" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_grid_single_view.xml" value="0.2" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_gridview_with_img_text.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_gridviewpage.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_home_page.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_implcit_intent.xml" value="0.24583333333333332" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_login_page.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_login_page2.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_loginn_using_shared.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_my_calculater.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_number_picker.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_popmenu_exmple.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_progress_bar.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_project_card_view.xml" value="0.176" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_project_login.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_project_new_login.xml" value="0.2453125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_project_register.xml" value="0.24479166666666666" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_rating_page.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_recycler_view_demo.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_register.xml" value="0.24479166666666666" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_scrolle_view.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_second_card.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_second_page_shared.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_seekbar.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_serchview_ex.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_snackbear.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_splashpage.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_sqlite_view.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_sqlite_vuew.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_sqlite_without_open_helper.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_sqlitewith_open_helper.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_tab_example.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_time_picker_with_edit_text.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_timepicker.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_vedio.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_view_courses.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/activity_webview.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/countrylyer.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/course_rv_item.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/fragment_call.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/fragment_favorites.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/fragment_recent.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/fragment_status.xml" value="0.18867924528301888" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/gridfoodlayout.xml" value="0.24583333333333332" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/gridfoodvilist.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/gridlaout.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/projectcardlayout.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/recent_item_list.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/rowlayoutcard.xml" value="0.25" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/secondlayour.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/layout/secondrecyler.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/menu/optionalmenu.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/menu/popmenu.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/My_Android_projcets/app/src/main/res/menu/sub_menu.xml" value="0.24583333333333332" />
       </map>
     </option>
   </component>

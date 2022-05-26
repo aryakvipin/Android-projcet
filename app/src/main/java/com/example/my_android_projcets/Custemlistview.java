@@ -2,12 +2,18 @@ package com.example.my_android_projcets;
 
 import android.content.DialogInterface;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.Toast;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
+
+import java.security.cert.PKIXRevocationChecker;
 
 public class Custemlistview extends AppCompatActivity {
          ListView frtlist;
@@ -64,5 +70,42 @@ public class Custemlistview extends AppCompatActivity {
         AlertDialog obj=alert.create();
         obj.show();
 
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.optionalmenu,menu);
+
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+        switch (item.getItemId()) {
+//            case R.id.select:
+//                Toast.makeText(getApplicationContext(),"select", Toast.LENGTH_LONG).show();
+//
+//                return true;
+//            case R.id.copy:
+//                Toast.makeText(getApplicationContext(),"Copy", Toast.LENGTH_LONG).show();
+//
+//                return true;
+//
+//            case R.id.paste:
+//                Toast.makeText(getApplicationContext(),"Paste", Toast.LENGTH_LONG).show();
+//
+//                return true;
+//            case R.id.cut:
+//                Toast.makeText(getApplicationContext(),"Cut", Toast.LENGTH_LONG).show();
+//
+//                return true;
+//            case R.id.subitem1:
+//                Toast.makeText(this, "Sub Item 1 selected", Toast.LENGTH_SHORT).show();
+//                return true;
+//            case R.id.subitem2:
+//                Toast.makeText(this, "Sub Item 2 selected", Toast.LENGTH_SHORT).show();
+//                return true;
+       }
+        return true;
     }
 }

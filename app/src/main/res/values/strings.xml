@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Find My Food </string>
+    <string name="app_name">  Course</string>
     <string name="login_page">Login page</string>
     <string name="scrollview">Think about everything you saw in the movie and determine your impressions of the film. Does the picture involve any social context? What was the original idea for the film and how successful were the producers at implement them? Pay attention to how it was filmed and and what techniques were used.
     For example, in Psycho, produced and directed by Alfred Hitchcock, we can definitely notice an unusual zoom effect called vertigo.
@@ -7,4 +7,6 @@
     family to get fresh ideas to support your opinion, or for another point of view.ow after you’ve done your research and prepared your work, it’s time to compose everything together and write a review. Put all your thoughts and arguments together and stick to the outline you wrote before. Make a general overview of the film so that readers are able to understand what problems might arise from it, but don’t spoil the outcome, as they might not have seen the movie yet. Write main points that you liked, and ones that you didn’t. Reinforce your thoughts with evidence and examples. Comment on the originality of the movie and compare it with other films of the same genre,
     films with the same topic, or films directed by the same person. you are in the middle of writing a movie review one-off, then reading our comprehensive guide and following the tips and steps mentioned here should be enough to get an excellent grade. However, what if you know that you will be writing plenty of reviews in the future? In this case, we recommend that you create a
     No – if you simply copy an existing review and submit it as your own, your teacher will detect plagiarism in your paper and will penalize you for it. However, you still can search for examples of movie reviews on the Web to get ideas for how to write your own. Instead of taking the risk, entrust your movie review to one of our professional academic writers. This way you will save your time, without giving up on your success!standardized movie review form (aka template) that will help you save time and succeed in your future assignments.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
